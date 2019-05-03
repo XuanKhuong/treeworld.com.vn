@@ -1,0 +1,46 @@
+.dropzone{
+			width: 678px;
+		    border: 2px dashed #0087F7;
+		    border-radius: 5px;
+		    background: white;
+		    margin: 0px auto;
+		}
+
+.font-lato{
+	width: 22% !important;
+}
+
+@media (min-width: 576px){}
+.modal-dialog {
+    max-width: 699px!important;
+    margin: 1.75rem auto;
+}
+}
+
+.content-wrapper{
+	padding:12px!important;
+}
+
+body {
+    padding-top: 20px;
+    
+}
+
+.btn-default {
+    top: 25%;
+    left:25%; 
+    color: #999; 
+    background: #fffccc; 
+} 
+
+.hv-btn{
+	background: none;
+	border: none; 
+	color: #8d97ad; 
+	font-size: 17px; 
+	margin-left: 9%;
+}
+
+.hv-btn:hover{
+	color: white;
+}
