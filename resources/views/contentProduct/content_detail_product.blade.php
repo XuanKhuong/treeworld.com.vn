@@ -1,5 +1,5 @@
 @extends('layouts.masterAdmin')
-
+{{-- hello --}}
 @section('content')
 
 	<div class="content-wrapper">
